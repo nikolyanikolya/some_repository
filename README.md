@@ -1,1 +1,1 @@
-# some_repository
+# my_projects
