@@ -1,0 +1,8 @@
+"D:\clion\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\admin\CLionProjects\new
+CMake Error at CMakeLists.txt:7 (target_include_directories):
+  Cannot specify include directories for target "main" which is not built by
+  this project.
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/admin/CLionProjects/new/cmake-build-debug/CMakeFiles/CMakeOutput.log".

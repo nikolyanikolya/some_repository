@@ -1,0 +1,3 @@
+"D:\clion\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\list_heap.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\list_heap.dir/objects.a @CMakeFiles\list_heap.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  -Wall -Wextra -Wshadow  -g   -Wl,--whole-archive CMakeFiles\list_heap.dir/objects.a -Wl,--no-whole-archive  -o list_heap.exe -Wl,--out-implib,liblist_heap.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\list_heap.dir\linklibs.rsp
